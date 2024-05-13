@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{A98F7154-063A-4FC0-8318-684B4FD1398E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A98F7154-063A-4FC0-8318-684B4FD1398E}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jones\\2023p4progcs2\\consolemongame\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A98F7154-063A-4FC0-8318-684B4FD1398E}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\jones\\2023P4ProgCs2\\ConsoleMonGame\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A98F7154-063A-4FC0-8318-684B4FD1398E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A98F7154-063A-4FC0-8318-684B4FD1398E}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jones\\2023p4progcs2\\consolemongame\\consoleapp1\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A98F7154-063A-4FC0-8318-684B4FD1398E}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\jones\\2023P4ProgCs2\\ConsoleMonGame\\consoleapp1\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A98F7154-063A-4FC0-8318-684B4FD1398E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Skill.cs",
               "ToolTip": "C:\\Users\\jones\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleApp1\\Skill.cs",
               "RelativeToolTip": "ConsoleApp1\\Skill.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T09:55:51.021Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\jones\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T09:50:44.821Z",
               "EditorCaption": ""
